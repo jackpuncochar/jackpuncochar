@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jack Puncochar, welcome to my data science portfolio! Here is an overview of some of my recent projects.
+👋 Hi, I’m Jack Puncochar, welcome to my data science portfolio! Here is an overview of some of my recent projects.
 
 ### [College Football Play-by-Play Simulation for Daily Fantasy]
 
