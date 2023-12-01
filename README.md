@@ -1,6 +1,6 @@
 👋 Hi, I’m Jack Puncochar, welcome to my data science portfolio! Here is an overview of some of my recent projects.
 
-### [College Football Play-by-Play Simulation for Daily Fantasy]
+### College Football Play-by-Play Simulation for Daily Fantasy
 
 - **Objective:** Simulate college football games play-by-play using OOP in Python to develop fantasy projections. 
 - **Technologies Used:** 'cfbfastR', R, Python, pandas, Matplotlib, numpy, object-oriented programming.
