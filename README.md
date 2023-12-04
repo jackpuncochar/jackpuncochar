@@ -5,12 +5,11 @@
 - **Objective:** Simulate college football games play-by-play using OOP in Python to develop fantasy projections. 
 - **Technologies Used:** 'cfbfastR', R, Python, pandas, Matplotlib, numpy, object-oriented programming.
 - **Methods:** A Reddit user developed a play-by-play simulation of NFL games https://www.reddit.com/r/nfl/comments/ew9dog/comment/fg20mw0/ to predict game results. I wanted to apply these methods to college football data and take it a step further by tracking player results. The basis of the simulation was a combination of game logic/rules and several fairly simple linear and logistic regression models that predicted key events in a football game. 
-- **Results:** Football is a complex game. Several variables impact how a game plays out. Currently, the simulation can provide realistic results of football games and realistic distributions of player statistics; however, I have yet to incorporate team and player skill, which is obviously a huge component of each play. The complexity of the simulation has no bounds, and I hope to iterate on this in the future.
+- **Results:** Football is a complex game. Several variables impact how a game plays out. Currently, the simulation can provide realistic results of football games and realistic distributions of player statistics; however, I have yet to incorporate team and player skill, which is a huge component of each play. The complexity of the simulation has no bounds, and I hope to iterate on this in the future.
 
-## Technical Details
+## Project Description and Code
 
-- **Code:** Links to the Jupyter Notebooks or Python scripts for each project.
-- **Dependencies:** List the main libraries and frameworks used (e.g., NumPy, Pandas, TensorFlow). You can include a requirements.txt file for easy setup.
+https://github.com/jackpuncochar/cfb-simulation
 
 ## Skills and Technologies
 
