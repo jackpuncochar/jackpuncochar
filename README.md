@@ -18,6 +18,10 @@ https://github.com/jackpuncochar/cfb-simulation
 - **Methods:** here are the methods used in coding the chatbot
 - **Results:** here are the results of the chatbot along with future improvements.
 
+## Project Description and Code
+
+https://github.com/jackpuncochar/financial-chatbot
+
 ## Skills and Technologies
 
 - **Programming Languages:** Python, R
