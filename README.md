@@ -11,10 +11,17 @@
 
 https://github.com/jackpuncochar/cfb-simulation
 
+# Financial Consultant Chatbot Using Cosine Similarity
+
+- **Objective:** Develop a chatbot that answers questions related to finance. Learn the basics of how chatbots work without getting into the complexity of programs like ChatGPT. Generative content is gaining popularity as companies look to automate customer service and even answer questions that employees might have regarding internal documents and processes.
+- **Technologies Used:** Python, pandas, nltk, TfidVectorizer, cosine_similarity
+- **Methods:** here are the methods used in coding the chatbot
+- **Results:** here are the results of the chatbot along with future improvements.
+
 ## Skills and Technologies
 
 - **Programming Languages:** Python, R
-- **Libraries and Frameworks:** Pandas, NumPy, scikit-learn, TensorFlow, dplyr
+- **Libraries and Frameworks:** Pandas, NumPy, scikit-learn, TensorFlow, nltk, dplyr
 - **Database:** SQL
 - **Visualization:** Matplotlib, Seaborn, Plotly, ggplot, Tableau
 
