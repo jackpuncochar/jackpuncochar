@@ -13,10 +13,10 @@ https://github.com/jackpuncochar/cfb-simulation
 
 # Financial Consultant Chatbot Using Cosine Similarity
 
-- **Objective:** Develop a chatbot that answers questions related to finance. Learn the basics of how chatbots work without getting into the complexity of programs like ChatGPT. Generative content is gaining popularity as companies look to automate customer service and even answer questions that employees might have regarding internal documents and processes.
-- **Technologies Used:** Python, pandas, nltk, TfidVectorizer, cosine_similarity
-- **Methods:** here are the methods used in coding the chatbot
-- **Results:** here are the results of the chatbot along with future improvements.
+- **Objective:** Develop a chatbot that answers finance-related questions. Learn how chatbots work without getting into the complexity of large language models. Generative content is gaining popularity as companies look to automate customer service and even answer questions that employees might have regarding internal documents and processes.
+- **Technologies Used:** Python, pandas, nltk, TfidVectorizer, cosine_similarity, HTML, CSS, Flask
+- **Methods:** I used ChatGPT to produce 100 questions and answers related to finance and saved the results to a .csv file. Then, I used cosine similarity to find the question in the .csv that matched the user's input the closest. I pre-processed the user's input such as removing stopwords, lemmatization, and stemming (algorithms that attempt to get the true meaning of a word). The chatbot was built using Flask app and some pretty basic HTML/CSS code.  
+- **Results:** The results were as expected. The chatbot was able to pull from a base of questions/answers to answer the closest-matched question. It was also able to handle the case where a user's question was irrelevant. Future steps include saving a user's input if a similar question does not exist in the file, and utilizing large language models to generate more personal and nuanced responses. 
 
 ## Project Description and Code
 
