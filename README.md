@@ -36,7 +36,7 @@ https://github.com/jackpuncochar/financial-chatbot
 
 ## About Me
 
-I have a Master's in Data Science from the University of Wisconsin - Green Bay. I am very interested in how I can leverage data to build cool things. I especially love how much sports data is out there. With the increase in the popularity of sports betting, there will be several use cases for projects similar to the ones I have already developed.
+I have a Master's in Data Science from the University of Wisconsin - Green Bay. I am very interested in how I can leverage data to build cool things. I especially love working with sports data. With the increase in the popularity of sports betting, there will be several use cases for projects similar to the ones I have already developed.
 
 Feel free to explore each of my projects.
 
